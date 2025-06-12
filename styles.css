@@ -63,11 +63,40 @@
 .BoxModel7 {
     text-align: center;
     font-family:'Courier New', Courier, monospace;
-    background-color: #f7baba;
-    margin-top: 100px;
-    margin-left: 400px;
-    margin-right: 400px;
+    background-color: #8d0000;
+    margin-left: 560px;
+    margin-top: 150px;
     padding: 25px;
-    border: 4px solid black; 
+    width: 400px;
+    border: 5px solid black; 
+    border-radius: 10px;
+    border-style:outset;
 }
 
+
+h2 {
+color: white;
+position: relative;
+top: 7px;
+}
+
+
+h1 {
+color: white;
+font-size: 35px;
+position: relative;
+bottom: 10px;
+}
+
+
+p {
+color: white;
+position: relative;
+top: 11px;
+}
+
+
+img {
+    border: 4px solid #333;
+    border-radius: 5px;
+}
